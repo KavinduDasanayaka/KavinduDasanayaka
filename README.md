@@ -28,18 +28,11 @@ I'm a second-year undergraduate student at SLIIT. I enjoy working with a variety
 
 ---
 
-### Connect with me:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-dasanayaka-5b5642276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-<!-- Add other sections of your profile README here -->
-
 
 ---
 
