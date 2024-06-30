@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+I'm a university student and a passionate developer. I enjoy working with a variety of programming languages. I love to explore new technologies.
+
+---
+
+### Connect with me:
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<!-- Add other sections of your profile README here -->
