@@ -24,7 +24,7 @@ I'm a university student and a passionate developer. I enjoy working with a vari
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-dasanayaka-5b5642276/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target = "_blank">
   </a>
 </p>
 
