@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **KavinduDasanayaka/KavinduDasanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,17 +15,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm a university student and a passionate developer. I enjoy working with a variety of programming languages. I love to explore new technologies.
+I'm a second-year undergraduate student at SLIIT. I enjoy working with a variety of programming languages and exploring new technologies.
 
 ---
 
 ### Connect with me:
-
-### Hi there 👋
-
-I'm a second-year undergraduate student at SLIIT. I enjoy working with a variety of programming languages and exploring new technologies.
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-dasanayaka-5b5642276/" target="_blank">
