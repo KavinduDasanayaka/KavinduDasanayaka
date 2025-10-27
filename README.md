@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm a third-year | first semester undergraduate student at SLIIT. I enjoy working with a variety of programming languages and exploring new technologies.
+I'm a Fourth-year | first semester undergraduate student at SLIIT. I enjoy working with a variety of programming languages , QA technologies and exploring.
 
 ---
 
