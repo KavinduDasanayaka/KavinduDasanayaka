@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Kavindu Dasanayaka
 
-### 💻 Information Technology Graduate · Software Development & IT Operations
+### 💻 Information Technology Graduate · QA · Software Development & IT Operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindud/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kavindudasanayaka.me)
@@ -56,20 +56,27 @@ I specialize in building scalable web applications, troubleshooting complex syst
 
 ## 🚀 Featured Projects
 
-### 🏠 [Home Stock — Enterprise Inventory Management](https://github.com/KavinduDasanayaka)
+### 🏠 [Home Stock — Enterprise Inventory Management](https://github.com/KavinduDasanayaka/HomeStockInventoryManagementSystemMERN-Y3S2)
 > MERN Stack · Docker · REST APIs · Postman
 
 - Developed a full-stack inventory tracking system to manage supply-chain workflows.
 - Containerized development and production environments using **Docker** for seamless deployment.
 - Designed and secured backend RESTful API endpoints, validating data integrity with Postman.
 
-### 💊 [KMP Pharmacy Management System](https://github.com/KavinduDasanayaka)
+### 💊 [KMP Pharmacy Management System](https://github.com/KavinduDasanayaka/KMP-Pharmacy)
 > MERN Stack · Database Management · System Architecture
 
 - Built a comprehensive pharmacy database and management platform in a collaborative environment.
 - Handled backend logic and API routing to ensure accurate stock tracking and user access control.
 
-### 📬 [API Reliability Suite — Postman & CI/CD](https://github.com/KavinduDasanayaka)
+### 💊 [Star-Events-Ticketing-App ](https://github.com/KavinduDasanayaka/Star-Events-Ticketing-App)
+> .NET(C#) · Database Management · System Architecture
+
+- Built a comprehensive ticketing platform in a collaborative environment.
+- Handled backend logic and API routing to ensure accurate ticket and event tracking and user access control.
+- Ticket generation and validation
+  
+### 📬 [API Reliability Suite — Postman & CI/CD](https://github.com/KavinduDasanayaka/Newman-s-API-Automation)
 > Postman · Newman · GitHub Actions
 
 - Engineered an automated infrastructure monitoring suite for RESTful services.
@@ -81,12 +88,13 @@ I specialize in building scalable web applications, troubleshooting complex syst
 
 | Certificate | Issuer |
 |---|---|
-| 🛡️ **ISTQB Certified Tester Foundation Level (CTFL) v4.0 — (Passed with 93%)** | **SLSTB** |
+| 🛡️ <font color="blue">**ISTQB Certified Tester Foundation Level (CTFL) v4.0 — (Passed with 93%)**</font> | <font color="blue">**SLSTB**</font> |
 | ☁️ **AWS SimuLearn: Cloud Computing Essentials** | **AWS** |
 | 📮 Postman API Fundamentals Student Expert | Postman |
 | 🔄 Agile and SCRUM Professional Certificate | MTF Institute |
 | 🌲 Software Testing using Cypress | Software Testing Mentor |
 | ⚛️ Frontend Developer (React) Certified | HackerRank |
+
 
 ---
 
