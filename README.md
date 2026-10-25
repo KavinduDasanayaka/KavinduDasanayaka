@@ -70,7 +70,7 @@ I specialize in building scalable web applications, troubleshooting complex syst
 - Handled backend logic and API routing to ensure accurate stock tracking and user access control.
 
 ### 💊 [Star-Events-Ticketing-App ](https://github.com/KavinduDasanayaka/Star-Events-Ticketing-App)
-> .NET(C#) · Database Management · System Architecture
+> ASP.NET(C#) · Database Management · System Architecture
 
 - Built a comprehensive ticketing platform in a collaborative environment.
 - Handled backend logic and API routing to ensure accurate ticket and event tracking and user access control.
@@ -88,12 +88,13 @@ I specialize in building scalable web applications, troubleshooting complex syst
 
 | Certificate | Issuer |
 |---|---|
-| 🛡️ <font color="blue">**ISTQB Certified Tester Foundation Level (CTFL) v4.0 — (Passed with 93%)**</font> | <font color="blue">**SLSTB**</font> |
+| 🛡️ [**ISTQB Certified Tester Foundation Level (CTFL) v4.0 — (Passed with 93%)**](#) | [**SLSTB**](#) |
 | ☁️ **AWS SimuLearn: Cloud Computing Essentials** | **AWS** |
 | 📮 Postman API Fundamentals Student Expert | Postman |
 | 🔄 Agile and SCRUM Professional Certificate | MTF Institute |
 | 🌲 Software Testing using Cypress | Software Testing Mentor |
 | ⚛️ Frontend Developer (React) Certified | HackerRank |
+
 
 
 ---
